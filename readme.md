@@ -39,11 +39,11 @@ The DOM
 * Specifity
 - The cascade
  
-- code demo 2
+- code 2 demo 
 
 - source order
 
-- code demo 3
+- code 3 demo
 
 - inheritance
 
@@ -60,5 +60,14 @@ Specifity becomes an arms race so try to keep specity low when you start somethi
 Sometimes two rule sets are fighting over the same items and you don’t realize it.
 
 
-Code 4 demo 4
+### The box model 
+* floats
+* margin, padding, border, content
+* clearing floats where height of inside bigger than outside. 
+* box sizing border box
+Code 4 demo
+
+Code 5 demo
+
+Code 6 demo <- optional 
 
