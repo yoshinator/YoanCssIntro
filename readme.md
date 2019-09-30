@@ -1,4 +1,7 @@
+
 #  Today we cover CSS!
+![Slides](https://docs.google.com/presentation/d/1OmDg4AyjRo6YbgvA8QMgH1nQAJcQUHQCveziRE1-MW8/edit?usp=sharing)
+
 and some html
 
 * Who has used css already in their projects? 
@@ -55,7 +58,7 @@ The DOM
 - Important only way to override inline styles. 
 
 
-Talk about calculating specifity 
+* Talk about calculating specifity 
 Specifity becomes an arms race so try to keep specity low when you start something. That way later its easy to override styles if you have to. 
 Sometimes two rule sets are fighting over the same items and you don’t realize it.
 
@@ -65,9 +68,8 @@ Sometimes two rule sets are fighting over the same items and you don’t realize
 * margin, padding, border, content
 * clearing floats where height of inside bigger than outside. 
 * box sizing border box
+
 Code 4 demo
-
 Code 5 demo
-
 Code 6 demo <- optional 
 
