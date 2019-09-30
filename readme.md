@@ -14,7 +14,7 @@ and some html
 
 ![CSS](https://media.giphy.com/media/KTKhCXdelZg5y/giphy.gif)
 
-### HTML TAGS
+### HTML TAGS and Normal Flow
 These elements is how we can start selecting things from the page to style. 
 Selectors are how we grab html elements from the page.
 The page has a natural flow. 
@@ -34,18 +34,20 @@ The DOM
 
 * code demo 1
 
+
+### Specifity and the cascade
 * Specifity
-* The cascade
+- The cascade
  
-* code demo 2
+- code demo 2
 
-* source order
+- source order
 
-* code demo 3
+- code demo 3
 
-* inheritance
+- inheritance
 
-Talk about selectors,
+### Talk about selectors,
 
 * Inline styles are more powerful than styles in stylesheet show example
 - Divs more than classes show example 
