@@ -25,14 +25,38 @@ The DOM
 
 * HTML 5 Tags have meaning
 
-* The page has a normal flow. 
 * talk about keeping elements together
 * The DOM
 
+
+* The page has a normal flow.  Talk about. Visit link to show them.
 [Normal Document Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
- specifity
+
+* code demo 1
+
+* Specifity
+* The cascade
+ 
+* code demo 2
+
+* source order
+
+* code demo 3
+
+* inheritance
+
+Talk about selectors,
+
+* Inline styles are more powerful than styles in stylesheet show example
+- Divs more than classes show example 
+- classes more than tags show example. 
+- Important only way to override inline styles. 
+
 
 Talk about calculating specifity 
 Specifity becomes an arms race so try to keep specity low when you start something. That way later its easy to override styles if you have to. 
 Sometimes two rule sets are fighting over the same items and you don’t realize it.
+
+
+Code 4 demo 4
 
