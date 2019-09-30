@@ -1,0 +1,47 @@
+body {
+  box-sizing: border-box;
+  background-color: lightgray;
+}
+
+header{
+  background: teal;
+  padding: 20px
+}
+
+header h1{
+  margin: 0;
+  color: whitesmoke;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.main {
+  float: left;
+  width: 70%;
+  background-color: whitesmoke;
+}
+
+.sidebar{
+  float: left;
+  width: 29%; 
+  margin-left: 1%;
+  background-color: whitesmoke;
+}
+
+.widget {
+  margin: 10%;
+  color: white;
+  background-color: teal;
+  padding: 3%;
+  border-radius: 2%;
+}
+
+footer {
+  background-color: teal;
+  text-align: center;
+  color: whitesmoke;
+  padding: 20px;
+}
