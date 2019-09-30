@@ -1,24 +1,7 @@
 #  Today we cover CSS!
 and some html
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 
+# 
 ### Who's used CSS already for their projects?
 
 ### Have you had unexpected results?
